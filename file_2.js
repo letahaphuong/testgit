@@ -9,3 +9,6 @@ console.log(C4);
 let C6 = "Commit 6";
 console.log(C6);
 
+//chinh sua tai branch main
+let C6 = "Commit 6";
+console.log(C6);
